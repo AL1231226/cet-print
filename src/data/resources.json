@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "id": "cet4-2024-12",
+      "type": "cet4",
+      "name": "2024年12月大学英语四级真题",
+      "year": 2024,
+      "month": 12,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/cet4-202412", "status": "valid" }
+      ]
+    },
+    {
+      "id": "cet4-2024-06",
+      "type": "cet4",
+      "name": "2024年6月大学英语四级真题",
+      "year": 2024,
+      "month": 6,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/cet4-202406", "status": "valid" }
+      ]
+    },
+    {
+      "id": "cet6-2024-12",
+      "type": "cet6",
+      "name": "2024年12月大学英语六级真题",
+      "year": 2024,
+      "month": 12,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/cet6-202412", "status": "valid" }
+      ]
+    },
+    {
+      "id": "cet6-2024-06",
+      "type": "cet6",
+      "name": "2024年6月大学英语六级真题",
+      "year": 2024,
+      "month": 6,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/cet6-202406", "status": "valid" }
+      ]
+    },
+    {
+      "id": "ky-2025",
+      "type": "ky",
+      "name": "2025年考研英语（一）真题",
+      "year": 2025,
+      "month": 12,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/ky2025", "status": "valid" }
+      ]
+    },
+    {
+      "id": "ky-2024",
+      "type": "ky",
+      "name": "2024年考研英语（一）真题",
+      "year": 2024,
+      "month": 12,
+      "channels": [
+        { "name": "示例公众号", "url": "https://example.com/ky2024", "status": "valid" }
+      ]
+    }
+  ]
+}
