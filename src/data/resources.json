@@ -1,13 +1,26 @@
 {
   "resources": [
     {
+      "id": "cet4-all",
+      "type": "cet4",
+      "name": "四级历年真题合集（2015-2025.6）",
+      "year": 2025,
+      "month": 0,
+      "channels": [
+        { "name": "夸克网盘（推荐）", "url": "https://pan.quark.cn/s/29a82c866cae", "status": "valid" },
+        { "name": "百度网盘 提取码:6666", "url": "https://pan.baidu.com/s/1jtvZyRJ3XTpseT95LgkelQ", "status": "valid" },
+        { "name": "zcjsj8 下载页", "url": "https://www.zcjsj8.com/m/view.php?aid=1254", "status": "valid" }
+      ]
+    },
+    {
       "id": "cet4-2024-12",
       "type": "cet4",
       "name": "2024年12月大学英语四级真题",
       "year": 2024,
       "month": 12,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/cet4-202412", "status": "valid" }
+        { "name": "夸克网盘（合集内）", "url": "https://pan.quark.cn/s/29a82c866cae", "status": "valid" },
+        { "name": "掌阅免费阅读", "url": "https://m.zhangyue.com/chapter/13515778", "status": "valid" }
       ]
     },
     {
@@ -17,7 +30,20 @@
       "year": 2024,
       "month": 6,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/cet4-202406", "status": "valid" }
+        { "name": "夸克网盘（合集内）", "url": "https://pan.quark.cn/s/29a82c866cae", "status": "valid" },
+        { "name": "掌阅免费阅读", "url": "https://m.zhangyue.com/chapter/13515778", "status": "valid" }
+      ]
+    },
+    {
+      "id": "cet6-all",
+      "type": "cet6",
+      "name": "六级历年真题合集（2015-2025.6）",
+      "year": 2025,
+      "month": 0,
+      "channels": [
+        { "name": "夸克网盘（推荐）", "url": "https://pan.quark.cn/s/8d1f2f30b618", "status": "valid" },
+        { "name": "百度网盘 提取码:8888", "url": "https://pan.baidu.com/s/1QAtzBBx1cWurwN7_1IZ1Gg", "status": "valid" },
+        { "name": "zcjsj8 下载页", "url": "https://www.zcjsj8.com/m/view.php?aid=1254", "status": "valid" }
       ]
     },
     {
@@ -27,7 +53,8 @@
       "year": 2024,
       "month": 12,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/cet6-202412", "status": "valid" }
+        { "name": "夸克网盘（合集内）", "url": "https://pan.quark.cn/s/8d1f2f30b618", "status": "valid" },
+        { "name": "掌阅免费阅读", "url": "https://m.zhangyue.com/chapter/13515779", "status": "valid" }
       ]
     },
     {
@@ -37,27 +64,43 @@
       "year": 2024,
       "month": 6,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/cet6-202406", "status": "valid" }
+        { "name": "夸克网盘（合集内）", "url": "https://pan.quark.cn/s/8d1f2f30b618", "status": "valid" },
+        { "name": "掌阅免费阅读", "url": "https://m.zhangyue.com/chapter/13515779", "status": "valid" }
       ]
     },
     {
       "id": "ky-2025",
       "type": "ky",
-      "name": "2025年考研英语（一）真题",
+      "name": "2025年考研英语真题",
       "year": 2025,
       "month": 12,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/ky2025", "status": "valid" }
+        { "name": "考研真题下载中心", "url": "https://v.yxcedu.com/tzt.html", "status": "valid" },
+        { "name": "中公考研网", "url": "http://www.kaoyan365.cn/yingyu/zhenti/", "status": "valid" },
+        { "name": "WordCram PDF下载", "url": "https://www.wordcram.com.cn/exams/kaoyan", "status": "valid" }
       ]
     },
     {
       "id": "ky-2024",
       "type": "ky",
-      "name": "2024年考研英语（一）真题",
+      "name": "2024年考研英语真题",
       "year": 2024,
       "month": 12,
       "channels": [
-        { "name": "示例公众号", "url": "https://example.com/ky2024", "status": "valid" }
+        { "name": "考研真题下载中心", "url": "https://v.yxcedu.com/tzt.html", "status": "valid" },
+        { "name": "中公考研网", "url": "http://www.kaoyan365.cn/yingyu/zhenti/", "status": "valid" },
+        { "name": "WordCram PDF下载", "url": "https://www.wordcram.com.cn/exams/kaoyan", "status": "valid" }
+      ]
+    },
+    {
+      "id": "ky-all",
+      "type": "ky",
+      "name": "考研英语历年真题合集（1998-2026）",
+      "year": 2026,
+      "month": 0,
+      "channels": [
+        { "name": "WordCram 全套下载", "url": "https://www.wordcram.com.cn/exams/kaoyan", "status": "valid" },
+        { "name": "考研真题下载中心", "url": "https://v.yxcedu.com/tzt.html", "status": "valid" }
       ]
     }
   ]
